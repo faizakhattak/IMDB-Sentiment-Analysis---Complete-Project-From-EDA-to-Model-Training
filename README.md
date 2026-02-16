@@ -1,12 +1,12 @@
 # IMDB-Sentiment-Analysis---Complete-Project-From-EDA-to-Model-Training
-Project Description
+##Project Description
 This project presents a comprehensive end-to-end Natural Language Processing (NLP) pipeline for sentiment analysis on the IMDB movie review dataset. The notebook systematically walks through all four critical phases of a machine learning project: Exploratory Data Analysis (EDA), Text Preprocessing, Feature Engineering, and Model Training & Evaluation.
 
-Dataset Overview
+##Dataset Overview
 The dataset consists of 50,000 movie reviews, perfectly balanced with 25,000 positive and 25,000 negative reviews. Each review is accompanied by a sentiment label, making it an ideal benchmark dataset for binary sentiment classification tasks.
 
-Project Structure and Key Components
-Part 1: Exploratory Data Analysis (EDA)
+##Project Structure and Key Components
+###Part 1: Exploratory Data Analysis (EDA)
 The EDA phase provides deep insights into the dataset's characteristics:
 
 Class Balance Analysis: Confirmed a perfectly balanced dataset (50% positive, 50% negative)
